@@ -1,2 +1,29 @@
+ After succesfully installing OPENGL 3.0 we can play this game
+
 #It is just a game which we can play having 5 levels 
-#one have to move their block to black box and put the main block straight 
+#one have to move their block to black box and put the main block straight then u will cross a level
+Controls:---
+
+
+1) Arrows for block movements  <UP DOWN LEFT ROGHT >
+2) Views:-
+a) KEYBOARD
+ i) 'U' for view from top of plane
+ ii) 'T' for Tower view
+ iii) 'B' for BLock view
+ iv) 'F' for follow view
+ v) 'A' for moving as in helicopter view (Anti clock wise)
+ vi) 'D' for moving as in helicopter view (Clock wise)
+ b) MOUSE
+ i)we can use mouse right button to view throughout the board
+
+ScoreBoard 
+At the top right number of steps you travel in that level
+At the left it shows the level number 
+
+Board Block color designations
+
+orange :- Loose Block (u can't put ur main block in straight  position)
+Black :- Ur goal state
+Brown :- if u move the main block through Brown one  a bridge will appear
+Red :- if u move( it impies if only straight) the main block through red one a bridge will appear
